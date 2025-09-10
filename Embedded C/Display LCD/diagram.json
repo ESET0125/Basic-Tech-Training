@@ -4,7 +4,7 @@
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": 115.8, "left": -0.6, "attrs": {} },
-    { "type": "wokwi-lcd2004", "id": "lcd1", "top": -136.04, "left": -51.2, "attrs": {} },
+    { "type": "wokwi-lcd1602", "id": "lcd1", "top": -136.04, "left": -51.2, "attrs": {} },
     {
       "type": "wokwi-resistor",
       "id": "r1",
@@ -24,7 +24,8 @@
     [ "r1:2", "uno:5V", "white", [ "v268.8", "h-193.2" ] ],
     [ "lcd1:VSS", "uno:GND.1", "#8f4814", [ "v67.2", "h134.4" ] ],
     [ "lcd1:RW", "uno:GND.1", "#8f4814", [ "v67.2", "h76.7" ] ],
-    [ "lcd1:K", "uno:GND.1", "#8f4814", [ "v67.2", "h-9.6" ] ]
+    [ "lcd1:K", "uno:GND.1", "#8f4814", [ "v67.2", "h-9.6" ] ],
+    [ "uno:10", "lcd1:D4", "white", [ "h-153.6", "v-172.8" ] ]
   ],
   "dependencies": {}
 }
