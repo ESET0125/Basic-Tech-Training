@@ -14,9 +14,19 @@ create table SmartMeterReadings(MeterID int,
 								EnerygyConsumed int,
 								foreign key (customerID) references customers(customerID))
 
-insert into customers values(5,'manan', 'Jaiput', 'West');
+INSERT into Customers values(101,'Rishav', 'Kolkata', 'North'),
+(102,'Aniket', 'Siliguri', 'North'),
+(103,'Sahil', 'Rajasthan', 'West'),
+(104,'Manjit', 'Orissa', 'East'),
+(105,'Soumyadeep', 'Kolkata', 'South');
 
-insert into SmartMeterReadings values(105, 5, 'basement', '2025-03-22', '2025-04-07 14:30:00', 100);
+ 
+INSERT into SmartMeterReadings values(1001, 105, 'rooftop','2024-07-02','2025-06-12 10:00:00',450),
+(1002, 102, 'basement','2024-07-12','2024-06-12 10:00:00',300),
+(1003, 103, 'rooftop','2024-09-03','2024-01-12 10:00:00',450),
+(1004, 104, 'basement','2023-02-14','2024-04-12 10:00:00',312),
+(1005, 105, 'basement','2024-05-02','2024-06-12 10:00:00',454),
+(1006, 103, 'rooftop','2025-07-12','2024-05-21 10:00:00',215);
 
 select * from SmartMeterReadings where EnerygyConsumed between 200 and 300
 
