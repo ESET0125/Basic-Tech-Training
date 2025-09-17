@@ -1,4 +1,4 @@
-﻿/*Assignment - DLMS/COSEM communication example
+/*Assignment - DLMS/COSEM communication example
 in C# .net, demonstrating how to:
 
 Define and pack an OBIS code
@@ -83,4 +83,4 @@ namespace DlmsCosemExample
             Console.WriteLine("GET Request APDU: " + BitConverter.ToString(apdu));
         }
     }
-}
+}  sw
