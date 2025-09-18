@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\Cass Dome\obj\Debug\net8.0\Cass Dome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\Cass Dome\obj\Debug\net8.0\Cass Dome.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\Cass Dome\obj\Debug\net8.0\Cass Dome.AssemblyInfo.cs
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\Cass Dome\obj\Debug\net8.0\Cass Dome.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\Cass Dome\obj\Debug\net8.0\Cass Dome.sourcelink.json

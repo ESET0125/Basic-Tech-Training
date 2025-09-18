@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\bin\Debug\net8.0\DemoDSA.exe
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\bin\Debug\net8.0\DemoDSA.deps.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\bin\Debug\net8.0\DemoDSA.runtimeconfig.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\bin\Debug\net8.0\DemoDSA.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\bin\Debug\net8.0\DemoDSA.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.AssemblyInfo.cs
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.sourcelink.json
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\refint\DemoDSA.dll
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.pdb
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\DemoDSA.genruntimeconfig.cache
+C:\Users\HP\Desktop\Basic-Tech-Training\.Net\DemoDSA\obj\Debug\net8.0\ref\DemoDSA.dll
