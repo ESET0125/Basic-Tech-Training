@@ -2,7 +2,10 @@ import { useState } from 'react'; // 1. Import useState Hook
 import './App.css';
 import EventComponent from './components/EventComponents';
 import LoginButton from './components/LoginComponent';
-
+import LoginForm from './components/LoginForm';
+import UseEffectComponent from './components/UseEffectComponent';
+import useRefComponents from './components/useRefComponents';
+import ParentComponent from './components/ParentComponent';
 
 // 2. Main App Component
 function App() {
@@ -10,9 +13,14 @@ function App() {
     <div className='App'>
       <p style={{fontSize:'50px'}}>Virat Kholi</p>
       <img src="/download.jpg" alt="Virat Kohli" style={{ maxWidth: '50%', height: 'auto' }} />
-      <Counter /> {/* 3. Render the Counter component */}
+      <Counter /> 3. Render the Counter component
       <EventComponent/>
       <LoginButton/>
+      <LoginForm/>
+      <UseEffectComponent/>
+      <useRefComponents/>
+      <ParentComponent/>
+
     </div>
     
   );
@@ -56,6 +64,7 @@ function Counter() {
              <h2>runs</h2>
             <button onClick={increment}>INC</button> 
             <button onClick={decrement}>DEC</button>
+
         </>
     );
 }
